@@ -2,95 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5cb9809-c534-4bb5-a457-7d79b9ac1342" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/_mixin.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/_responsive.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/_theme_color.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/active.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/classy-nav.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/classy-nav.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/core-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/classy.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/classy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/classy.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/classy.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/bg-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/bg-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/bg-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/bg-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/bg-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/bg-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/bg-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/bg-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/blog1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/blog2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/blog3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/blog4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/blog5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/blog6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/breadcumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/breadcumb2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/rp1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/rp2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/rp3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg-img/rp4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/arrow-down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/arrow-left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/arrow-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/arrow-up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/bag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/brand1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/brand2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/brand3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/brand4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/brand5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/brand6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/cancel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/heart-fill.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/heart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/long-arrow-left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/long-arrow-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/pin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/user.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/core-img/view.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/product-img/product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/product-img/product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/product-img/product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/product-img/product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/product-img/product-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/product-img/product-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/product-img/product-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/product-img/product-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/product-img/product-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/product-img/product-big-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/product-img/product-big-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/product-img/product-big-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery/jquery-2.2.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/map-active.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/nice-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_conn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeRequest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,17 +19,36 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="162">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/js/jquery/jquery-2.2.4.min.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/auth.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+              <folding>
+                <element signature="e#71#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -133,8 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="683" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="27" />
     <option name="width" value="683" />
     <option name="height" value="741" />
@@ -157,20 +93,7 @@
             <path>
               <item name="Get3SixtyOrg" type="b2602c69:ProjectViewProjectNode" />
               <item name="Get3SixtyOrg" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Get3SixtyOrg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Get3SixtyOrg" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Get3SixtyOrg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Get3SixtyOrg" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="jquery" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,6 +108,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,7 +127,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Flask server.Flask (app.py)">
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="Get3SixtyOrg" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
     <configuration name="Get3SixtyOrg" type="Python.FlaskServer">
       <module name="Get3SixtyOrg" />
       <option name="target" value="$PROJECT_DIR$/app.py" />
@@ -214,6 +158,11 @@
       <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flask server.Flask (app.py)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -225,19 +174,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559051947367</updated>
-      <workItem from="1559051955083" duration="311000" />
+      <workItem from="1559051955083" duration="805000" />
     </task>
+    <task id="LOCAL-00001" summary="Static files added">
+      <created>1559052281692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559052281692</updated>
+    </task>
+    <task id="LOCAL-00002" summary="template files added">
+      <created>1559052411949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559052411949</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="311000" />
+    <option name="totallyTimeSpent" value="805000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="27" width="683" height="741" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35635793" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18636364" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -247,7 +210,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -262,16 +225,48 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Static files added" />
+    <MESSAGE value="template files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="template files added" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Get3SixtyOrg$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1559052692920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.py">
+    <entry file="file://$PROJECT_DIR$/static/js/jquery/jquery-2.2.4.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/jquery/jquery-2.2.4.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding>
+            <element signature="e#71#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
